@@ -21,7 +21,7 @@
     "value": "kup-k8s-jun8-v1-target"
   },
   "update.gate.operationId": {
-    "value": "0d3cf5a0-c949-4ba9-a8a7-17eee59d0878"
+    "value": "5dd435d6-b369-426d-bd72-7f6887dd9ce4"
   },
   "update.gate.operationName": {
     "value": "Update"
@@ -32,4 +32,4 @@
   "version": {
     "value": "10.2307.0.2"
   }
-}                                                
+}                                                         
