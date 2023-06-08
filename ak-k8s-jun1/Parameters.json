@@ -21,7 +21,7 @@
     "value": "ak-k8s-jun1-target"
   },
   "update.gate.operationId": {
-    "value": "b75d220f-74fb-462c-96d2-60a833f172ac"
+    "value": "10a351f6-bffd-44ee-94da-c992262c384e"
   },
   "update.gate.operationName": {
     "value": "Update"
@@ -30,6 +30,6 @@
     "value": "tcp://52.188.91.16:1883"
   },
   "version": {
-    "value": "10.2307.0.1"
+    "value": "10.2307.0.2"
   }
-}                     
+}               
