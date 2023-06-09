@@ -122,7 +122,7 @@
             "type": "update",
             "properties": {
               "app.package": "update",
-              "version": "[parameters('version)']"
+              "version": "[parameters('version')]"
             },
             "dependencies": [
               "[variables('targetGateName')]"
