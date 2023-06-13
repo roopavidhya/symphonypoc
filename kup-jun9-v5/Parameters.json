@@ -21,7 +21,7 @@
     "value": "kup-jun9-v5-target"
   },
   "update.gate.operationId": {
-    "value": "288aca0d-b728-4e5b-ac83-5dd8f0b248bb"
+    "value": "0e9198f2-2e18-457b-8fad-a95af19bd063"
   },
   "update.gate.operationName": {
     "value": "Update"
@@ -30,6 +30,6 @@
     "value": "tcp://20.231.239.60:1883"
   },
   "version": {
-    "value": "10.2307.0.1"
+    "value": "10.2307.0.2"
   }
-}           
+}                                                         
