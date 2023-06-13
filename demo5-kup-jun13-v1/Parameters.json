@@ -1,0 +1,35 @@
+{
+  "clusterName": {
+    "value": "demo5-kup-jun13-v1"
+  },
+  "clusterLocation": {
+    "value": "eastus"
+  },
+  "symphonyName": {
+    "value": "demo5-kup-jun13-v1-symphony"
+  },
+  "installNamespace": {
+    "value": "default"
+  },
+  "customLocationName": {
+    "value": "demo5-kup-jun13-v1-cl"
+  },
+  "customLocationNamespace": {
+    "value": "demo5-kup-jun13-v1-cl"
+  },
+  "targetName": {
+    "value": "demo5-kup-jun13-v1-target"
+  },
+  "update.gate.operationId": {
+    "value": "4ab2a148-7b04-4720-b889-bb4fb71f5914"
+  },
+  "update.gate.operationName": {
+    "value": "Update"
+  },
+  "update.broker.address": {
+    "value": "tcp:// 20.246.142.211:1883"
+  },
+  "version": {
+    "value": "10.2306.0.50"
+  }
+}                                                 
