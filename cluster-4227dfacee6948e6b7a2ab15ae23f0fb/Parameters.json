@@ -21,7 +21,7 @@
     "value": "demo3-kup-jun13-v1-target"
   },
   "update.gate.operationId": {
-    "value": "6a3a8235-767f-4496-b59c-fd899b57ec92"
+    "value": "d40ce578-d994-4d9d-a1c7-391e7dea0908"
   },
   "update.gate.operationName": {
     "value": "Update"
@@ -30,6 +30,6 @@
     "value": "tcp://20.241.234.93:1883"
   },
   "version": {
-    "value": "10.2306.0.51"
+    "value": "10.2306.1.0"
   }
-}                     
+}                                                        
