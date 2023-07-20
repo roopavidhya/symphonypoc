@@ -65,14 +65,14 @@
       "name": "[parameters('symphonyName')]",
       "location": "[parameters('clusterLocation')]",
       "properties": {
-        "extensionType": "private.symphony",
+        "extensionType": "private.projectalicesprings",
         "autoUpgradeMinorVersion": true,
         "scope": {
           "cluster": {
             "releaseNamespace": "[parameters('installNamespace')]"
           }
         },
-        "version": "0.43.11",
+        "version": "0.44.2",
         "releaseTrain": "dev",
         "configurationSettings": {
           "Microsoft.CustomLocation.ServiceAccount": "default"
