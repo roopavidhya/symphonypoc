@@ -1,0 +1,35 @@
+{
+  "clusterName": {
+    "value": "ak-cluster-55cbf"
+  },
+  "clusterLocation": {
+    "value": "eastus"
+  },
+  "symphonyName": {
+    "value": "ak-cluster-55cbf-symphony"
+  },
+  "installNamespace": {
+    "value": "default"
+  },
+  "customLocationName": {
+    "value": "ak-cluster-55cbf-cl"
+  },
+  "customLocationNamespace": {
+    "value": "ak-cluster-55cbf-cl"
+  },
+  "targetName": {
+    "value": "ak-cluster-55cbf-target"
+  },
+  "update.gate.operationId": {
+    "value": "41040a8c-8dd5-4fb9-9cba-ef086cbfbb7f"
+  },
+  "update.gate.operationName": {
+    "value": "Update"
+  },
+  "update.broker.address": {
+    "value": "tcp://20.246.178.243:1883"
+  },
+  "version": {
+    "value": "10.2308.0.3"
+  }
+}          
