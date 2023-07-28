@@ -21,7 +21,7 @@
     "value": "ak-cluster-55cbf-target"
   },
   "update.gate.operationId": {
-    "value": "3ac5c5bc-2912-478e-a282-68ff7ad4fb73"
+    "value": "83788996-d284-41b9-8642-d745588ab81d"
   },
   "update.gate.operationName": {
     "value": "Update"
@@ -30,6 +30,6 @@
     "value": "tcp://20.246.178.243:1883"
   },
   "version": {
-    "value": "10.2308.0.3"
+    "value": "10.2308.0.4"
   }
-}                                 
+}         
